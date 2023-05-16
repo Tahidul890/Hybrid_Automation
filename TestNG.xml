@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite1" verbose="1">
+	<listeners>
+		<listener class-name="tohid.usa.listener.TestListener" />
+</listeners> 
+ <test name="functionalTesting">
+		<classes>
+			<class name="tohid.usa.runnerpage.My_Runner" /> 
+		</classes>
+	</test>
+</suite>

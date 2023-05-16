@@ -1,0 +1,316 @@
+2023-04-19 20:27:15,095 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-19 20:27:15,104 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/tahidulhaque/.cache/selenium/chromedriver/mac-arm64/112.0.5615.49/chromedriver
+2023-04-19 20:27:16,677 - QA Lead:: -INFO - >>>>> Automation Start with Chrome Browser <<<<< 
+2023-04-19 20:27:19,901 - QA Lead:: -INFO - >>>>>User able to select men module<<<<<
+2023-04-19 20:27:20,066 - QA Lead:: -INFO - >>>>>User able to select tops from men module<<<<<
+2023-04-19 20:27:20,202 - QA Lead:: -INFO - >>>>>User able to select jackets from the tops module<<<<<
+2023-04-19 20:27:20,938 - QA Lead:: -INFO - >>>>>User able to select any jacket<<<<<
+2023-04-19 20:27:21,764 - QA Lead:: -INFO - >>>>>User able to select a size<<<<<
+2023-04-19 20:27:21,960 - QA Lead:: -INFO - >>>>>User able to select a color<<<<<
+2023-04-19 20:27:22,110 - QA Lead:: -INFO - >>>>>User able to select quantity<<<<<
+2023-04-19 20:27:22,161 - QA Lead:: -INFO - >>>>>User able to click on to cart button<<<<<
+2023-04-19 20:27:22,309 - QA Lead:: -INFO - >>>>>User able to click on to the shopping cart pop-up<<<<<
+2023-04-19 20:27:42,667 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-19 20:27:42,674 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/tahidulhaque/.cache/selenium/chromedriver/mac-arm64/112.0.5615.49/chromedriver
+2023-04-19 20:27:43,968 - QA Lead:: -INFO - >>>>> Automation Start with Chrome Browser <<<<< 
+2023-04-19 20:27:47,019 - QA Lead:: -INFO - >>>>>User able to select men module<<<<<
+2023-04-19 20:27:47,188 - QA Lead:: -INFO - >>>>>User able to select tops from men module<<<<<
+2023-04-19 20:27:47,323 - QA Lead:: -INFO - >>>>>User able to select jackets from the tops module<<<<<
+2023-04-19 20:27:47,978 - QA Lead:: -INFO - >>>>>User able to select any jacket<<<<<
+2023-04-19 20:27:48,858 - QA Lead:: -INFO - >>>>>User able to select a size<<<<<
+2023-04-19 20:27:49,008 - QA Lead:: -INFO - >>>>>User able to select a color<<<<<
+2023-04-19 20:27:49,158 - QA Lead:: -INFO - >>>>>User able to select quantity<<<<<
+2023-04-19 20:27:49,213 - QA Lead:: -INFO - >>>>>User able to click on to cart button<<<<<
+2023-04-19 20:27:49,355 - QA Lead:: -INFO - >>>>>User able to click on to the shopping cart pop-up<<<<<
+2023-04-19 20:27:52,171 - QA Lead:: -INFO - >>>>>User able to click on proceed to checkout<<<<<
+2023-04-19 20:27:56,181 - QA Lead:: -INFO - >>>>>User able to select a shipping method<<<<<
+2023-04-19 20:27:57,253 - QA Lead:: -INFO - >>>>>User able to click on next button<<<<<
+2023-04-19 20:27:57,395 - QA Lead:: -INFO - >>>>>User able to click on same as shipping address<<<<<
+2023-04-19 20:27:58,685 - QA Lead:: -INFO - >>>>>User able to click on place order button<<<<<
+2023-04-19 20:27:58,709 - QA Lead:: -INFO - >>>>>User able to verify the confirmation message<<<<<
+2023-04-19 20:31:43,337 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-19 20:31:43,346 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/tahidulhaque/.cache/selenium/chromedriver/mac-arm64/112.0.5615.49/chromedriver
+2023-04-19 20:31:44,696 - QA Lead:: -INFO - >>>>> Automation Start with Chrome Browser <<<<< 
+2023-04-19 20:31:47,880 - QA Lead:: -INFO - >>>>>User able to select men module<<<<<
+2023-04-19 20:31:48,060 - QA Lead:: -INFO - >>>>>User able to select tops from men module<<<<<
+2023-04-19 20:31:48,196 - QA Lead:: -INFO - >>>>>User able to select jackets from the tops module<<<<<
+2023-04-19 20:31:48,924 - QA Lead:: -INFO - >>>>>User able to select any jacket<<<<<
+2023-04-19 20:31:49,742 - QA Lead:: -INFO - >>>>>User able to select a size<<<<<
+2023-04-19 20:31:49,952 - QA Lead:: -INFO - >>>>>User able to select a color<<<<<
+2023-04-19 20:31:50,114 - QA Lead:: -INFO - >>>>>User able to select quantity<<<<<
+2023-04-19 20:31:50,167 - QA Lead:: -INFO - >>>>>User able to click on to cart button<<<<<
+2023-04-19 20:31:50,311 - QA Lead:: -INFO - >>>>>User able to click on to the shopping cart pop-up<<<<<
+2023-04-19 20:32:05,692 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-19 20:32:05,699 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/tahidulhaque/.cache/selenium/chromedriver/mac-arm64/112.0.5615.49/chromedriver
+2023-04-19 20:32:06,995 - QA Lead:: -INFO - >>>>> Automation Start with Chrome Browser <<<<< 
+2023-04-19 20:32:10,074 - QA Lead:: -INFO - >>>>>User able to select men module<<<<<
+2023-04-19 20:32:10,249 - QA Lead:: -INFO - >>>>>User able to select tops from men module<<<<<
+2023-04-19 20:32:10,382 - QA Lead:: -INFO - >>>>>User able to select jackets from the tops module<<<<<
+2023-04-19 20:32:10,968 - QA Lead:: -INFO - >>>>>User able to select any jacket<<<<<
+2023-04-19 20:32:11,651 - QA Lead:: -INFO - >>>>>User able to select a size<<<<<
+2023-04-19 20:32:11,851 - QA Lead:: -INFO - >>>>>User able to select a color<<<<<
+2023-04-19 20:32:12,018 - QA Lead:: -INFO - >>>>>User able to select quantity<<<<<
+2023-04-19 20:32:12,071 - QA Lead:: -INFO - >>>>>User able to click on to cart button<<<<<
+2023-04-19 20:32:12,225 - QA Lead:: -INFO - >>>>>User able to click on to the shopping cart pop-up<<<<<
+2023-04-19 20:32:24,648 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-19 20:32:24,657 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/tahidulhaque/.cache/selenium/chromedriver/mac-arm64/112.0.5615.49/chromedriver
+2023-04-19 20:32:25,887 - QA Lead:: -INFO - >>>>> Automation Start with Chrome Browser <<<<< 
+2023-04-19 20:32:28,921 - QA Lead:: -INFO - >>>>>User able to select men module<<<<<
+2023-04-19 20:32:29,090 - QA Lead:: -INFO - >>>>>User able to select tops from men module<<<<<
+2023-04-19 20:32:29,225 - QA Lead:: -INFO - >>>>>User able to select jackets from the tops module<<<<<
+2023-04-19 20:32:29,980 - QA Lead:: -INFO - >>>>>User able to select any jacket<<<<<
+2023-04-19 20:32:30,603 - QA Lead:: -INFO - >>>>>User able to select a size<<<<<
+2023-04-19 20:32:30,813 - QA Lead:: -INFO - >>>>>User able to select a color<<<<<
+2023-04-19 20:32:30,983 - QA Lead:: -INFO - >>>>>User able to select quantity<<<<<
+2023-04-19 20:32:31,037 - QA Lead:: -INFO - >>>>>User able to click on to cart button<<<<<
+2023-04-19 20:32:31,179 - QA Lead:: -INFO - >>>>>User able to click on to the shopping cart pop-up<<<<<
+2023-04-19 20:32:59,984 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-19 20:32:59,992 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/tahidulhaque/.cache/selenium/chromedriver/mac-arm64/112.0.5615.49/chromedriver
+2023-04-19 20:33:01,309 - QA Lead:: -INFO - >>>>> Automation Start with Chrome Browser <<<<< 
+2023-04-19 20:33:04,794 - QA Lead:: -INFO - >>>>>User able to select men module<<<<<
+2023-04-19 20:33:04,963 - QA Lead:: -INFO - >>>>>User able to select tops from men module<<<<<
+2023-04-19 20:33:05,096 - QA Lead:: -INFO - >>>>>User able to select jackets from the tops module<<<<<
+2023-04-19 20:33:05,827 - QA Lead:: -INFO - >>>>>User able to select any jacket<<<<<
+2023-04-19 20:33:06,721 - QA Lead:: -INFO - >>>>>User able to select a size<<<<<
+2023-04-19 20:33:06,923 - QA Lead:: -INFO - >>>>>User able to select a color<<<<<
+2023-04-19 20:33:07,092 - QA Lead:: -INFO - >>>>>User able to select quantity<<<<<
+2023-04-19 20:33:07,146 - QA Lead:: -INFO - >>>>>User able to click on to cart button<<<<<
+2023-04-19 20:33:07,292 - QA Lead:: -INFO - >>>>>User able to click on to the shopping cart pop-up<<<<<
+2023-04-19 20:34:18,844 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-19 20:34:18,851 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/tahidulhaque/.cache/selenium/chromedriver/mac-arm64/112.0.5615.49/chromedriver
+2023-04-19 20:34:20,150 - QA Lead:: -INFO - >>>>> Automation Start with Chrome Browser <<<<< 
+2023-04-19 20:34:23,463 - QA Lead:: -INFO - >>>>>User able to select men module<<<<<
+2023-04-19 20:34:23,638 - QA Lead:: -INFO - >>>>>User able to select tops from men module<<<<<
+2023-04-19 20:34:23,775 - QA Lead:: -INFO - >>>>>User able to select jackets from the tops module<<<<<
+2023-04-19 20:34:24,481 - QA Lead:: -INFO - >>>>>User able to select any jacket<<<<<
+2023-04-19 20:34:26,185 - QA Lead:: -INFO - >>>>>User able to select a size<<<<<
+2023-04-19 20:34:26,335 - QA Lead:: -INFO - >>>>>User able to select a color<<<<<
+2023-04-19 20:34:26,486 - QA Lead:: -INFO - >>>>>User able to select quantity<<<<<
+2023-04-19 20:34:26,546 - QA Lead:: -INFO - >>>>>User able to click on to cart button<<<<<
+2023-04-19 20:34:26,687 - QA Lead:: -INFO - >>>>>User able to click on to the shopping cart pop-up<<<<<
+2023-04-19 20:34:30,214 - QA Lead:: -INFO - >>>>>User able to click on proceed to checkout<<<<<
+2023-04-19 20:34:34,535 - QA Lead:: -INFO - >>>>>User able to select a shipping method<<<<<
+2023-04-19 20:34:35,648 - QA Lead:: -INFO - >>>>>User able to click on next button<<<<<
+2023-04-19 20:34:35,797 - QA Lead:: -INFO - >>>>>User able to click on same as shipping address<<<<<
+2023-04-19 20:34:37,157 - QA Lead:: -INFO - >>>>>User able to click on place order button<<<<<
+2023-04-19 20:34:37,185 - QA Lead:: -INFO - >>>>>User able to verify the confirmation message<<<<<
+2023-04-30 13:15:00,858 - QA Lead:: -INFO - >>>>>Automation started with Chrome<<<<<
+2023-04-30 13:15:00,932 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-30 13:15:00,939 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/tahidulhaque/.cache/selenium/chromedriver/mac-arm64/112.0.5615.49/chromedriver
+2023-04-30 13:19:52,628 - QA Lead:: -INFO - >>>>>Automation started with Chrome<<<<<
+2023-04-30 13:19:52,696 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-30 13:19:52,703 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/tahidulhaque/.cache/selenium/chromedriver/mac-arm64/112.0.5615.49/chromedriver
+2023-04-30 13:21:12,390 - QA Lead:: -INFO - >>>>>Automation started with Chrome<<<<<
+2023-04-30 13:21:12,460 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-30 13:21:12,467 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/tahidulhaque/.cache/selenium/chromedriver/mac-arm64/112.0.5615.49/chromedriver
+2023-04-30 13:23:11,926 - QA Lead:: -INFO - >>>>>Automation started with Chrome<<<<<
+2023-04-30 13:23:11,997 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-30 13:23:12,002 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/tahidulhaque/.cache/selenium/chromedriver/mac-arm64/112.0.5615.49/chromedriver
+2023-04-30 13:25:24,807 - QA Lead:: -INFO - >>>>>Automation started with Chrome<<<<<
+2023-04-30 13:25:24,878 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-30 13:25:24,885 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/tahidulhaque/.cache/selenium/chromedriver/mac-arm64/112.0.5615.49/chromedriver
+2023-05-02 15:40:20,073 - QA Lead:: -INFO - >>>>>Automation started with Chrome<<<<<
+2023-05-02 15:40:20,467 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-02 15:40:20,475 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/tahidulhaque/.cache/selenium/chromedriver/mac-arm64/112.0.5615.49/chromedriver
+2023-05-02 15:42:02,351 - QA Lead:: -INFO - >>>>>Automation started with Chrome<<<<<
+2023-05-02 15:42:02,420 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-02 15:42:02,428 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/tahidulhaque/.cache/selenium/chromedriver/mac-arm64/112.0.5615.49/chromedriver
+2023-05-02 15:43:41,369 - QA Lead:: -INFO - >>>>>Automation started with Chrome<<<<<
+2023-05-02 15:43:41,438 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-02 15:43:41,445 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/tahidulhaque/.cache/selenium/chromedriver/mac-arm64/112.0.5615.49/chromedriver
+2023-05-02 15:45:07,515 - QA Lead:: -INFO - >>>>>Automation started with Chrome<<<<<
+2023-05-02 15:45:07,583 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-02 15:45:07,589 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/tahidulhaque/.cache/selenium/chromedriver/mac-arm64/112.0.5615.49/chromedriver
+2023-05-02 15:45:12,037 - QA Lead:: -INFO - >>>>>User able to select men module<<<<<
+2023-05-02 15:45:12,192 - QA Lead:: -INFO - >>>>>User able to select tops from men module<<<<<
+2023-05-02 15:46:22,376 - QA Lead:: -INFO - >>>>>Automation started with Chrome<<<<<
+2023-05-02 15:46:22,449 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-02 15:46:22,456 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/tahidulhaque/.cache/selenium/chromedriver/mac-arm64/112.0.5615.49/chromedriver
+2023-05-02 15:46:26,894 - QA Lead:: -INFO - >>>>>User able to select men module<<<<<
+2023-05-02 15:46:27,052 - QA Lead:: -INFO - >>>>>User able to select tops from men module<<<<<
+2023-05-02 15:48:02,823 - QA Lead:: -INFO - >>>>>Automation started with Chrome<<<<<
+2023-05-02 15:48:02,893 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-02 15:48:02,901 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/tahidulhaque/.cache/selenium/chromedriver/mac-arm64/112.0.5615.49/chromedriver
+2023-05-02 15:48:07,681 - QA Lead:: -INFO - >>>>>User able to select men module<<<<<
+2023-05-02 15:48:07,824 - QA Lead:: -INFO - >>>>>User able to select tops from men module<<<<<
+2023-05-02 15:48:07,968 - QA Lead:: -INFO - >>>>>User able to select jackets from the tops module<<<<<
+2023-05-02 15:48:08,650 - QA Lead:: -INFO - >>>>>User able to select any jacket<<<<<
+2023-05-02 15:48:10,282 - QA Lead:: -INFO - >>>>>User able to select a size<<<<<
+2023-05-02 15:48:10,437 - QA Lead:: -INFO - >>>>>User able to select a color<<<<<
+2023-05-02 15:48:10,585 - QA Lead:: -INFO - >>>>>User able to select quantity<<<<<
+2023-05-02 15:48:10,640 - QA Lead:: -INFO - >>>>>User able to click on to cart button<<<<<
+2023-05-02 15:48:10,783 - QA Lead:: -INFO - >>>>>User able to click on to the shopping cart pop-up<<<<<
+2023-05-02 15:48:14,073 - QA Lead:: -INFO - >>>>>User able to click on proceed to checkout<<<<<
+2023-05-02 15:48:31,206 - QA Lead:: -INFO - >>>>>Automation started with Chrome<<<<<
+2023-05-02 15:48:31,277 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-02 15:48:31,283 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/tahidulhaque/.cache/selenium/chromedriver/mac-arm64/112.0.5615.49/chromedriver
+2023-05-02 15:48:36,115 - QA Lead:: -INFO - >>>>>User able to select men module<<<<<
+2023-05-02 15:48:36,258 - QA Lead:: -INFO - >>>>>User able to select tops from men module<<<<<
+2023-05-02 15:48:36,400 - QA Lead:: -INFO - >>>>>User able to select jackets from the tops module<<<<<
+2023-05-02 15:48:37,831 - QA Lead:: -INFO - >>>>>User able to select any jacket<<<<<
+2023-05-02 15:48:41,310 - QA Lead:: -INFO - >>>>>User able to select a size<<<<<
+2023-05-02 15:48:41,464 - QA Lead:: -INFO - >>>>>User able to select a color<<<<<
+2023-05-02 15:48:41,609 - QA Lead:: -INFO - >>>>>User able to select quantity<<<<<
+2023-05-02 15:48:41,665 - QA Lead:: -INFO - >>>>>User able to click on to cart button<<<<<
+2023-05-02 15:48:41,805 - QA Lead:: -INFO - >>>>>User able to click on to the shopping cart pop-up<<<<<
+2023-05-02 15:48:47,368 - QA Lead:: -INFO - >>>>>User able to click on proceed to checkout<<<<<
+2023-05-02 15:50:26,068 - QA Lead:: -INFO - >>>>>Automation started with Chrome<<<<<
+2023-05-02 15:50:26,136 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-02 15:50:26,142 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/tahidulhaque/.cache/selenium/chromedriver/mac-arm64/112.0.5615.49/chromedriver
+2023-05-02 15:50:30,980 - QA Lead:: -INFO - >>>>>User able to select men module<<<<<
+2023-05-02 15:50:31,126 - QA Lead:: -INFO - >>>>>User able to select tops from men module<<<<<
+2023-05-02 15:50:31,268 - QA Lead:: -INFO - >>>>>User able to select jackets from the tops module<<<<<
+2023-05-02 15:50:31,911 - QA Lead:: -INFO - >>>>>User able to select any jacket<<<<<
+2023-05-02 15:50:33,629 - QA Lead:: -INFO - >>>>>User able to select a size<<<<<
+2023-05-02 15:50:33,787 - QA Lead:: -INFO - >>>>>User able to select a color<<<<<
+2023-05-02 15:50:33,934 - QA Lead:: -INFO - >>>>>User able to select quantity<<<<<
+2023-05-02 15:50:33,989 - QA Lead:: -INFO - >>>>>User able to click on to cart button<<<<<
+2023-05-02 15:50:34,129 - QA Lead:: -INFO - >>>>>User able to click on to the shopping cart pop-up<<<<<
+2023-05-02 15:50:37,037 - QA Lead:: -INFO - >>>>>User able to click on proceed to checkout<<<<<
+2023-05-02 15:52:52,634 - QA Lead:: -INFO - >>>>>Automation started with Chrome<<<<<
+2023-05-02 15:52:52,703 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-02 15:52:52,709 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/tahidulhaque/.cache/selenium/chromedriver/mac-arm64/112.0.5615.49/chromedriver
+2023-05-02 15:52:57,637 - QA Lead:: -INFO - >>>>>User able to select men module<<<<<
+2023-05-02 15:52:57,788 - QA Lead:: -INFO - >>>>>User able to select tops from men module<<<<<
+2023-05-02 15:52:57,926 - QA Lead:: -INFO - >>>>>User able to select jackets from the tops module<<<<<
+2023-05-02 15:52:58,648 - QA Lead:: -INFO - >>>>>User able to select any jacket<<<<<
+2023-05-02 15:53:00,302 - QA Lead:: -INFO - >>>>>User able to select a size<<<<<
+2023-05-02 15:53:00,460 - QA Lead:: -INFO - >>>>>User able to select a color<<<<<
+2023-05-02 15:53:00,604 - QA Lead:: -INFO - >>>>>User able to select quantity<<<<<
+2023-05-02 15:53:00,659 - QA Lead:: -INFO - >>>>>User able to click on to cart button<<<<<
+2023-05-02 15:53:00,799 - QA Lead:: -INFO - >>>>>User able to click on to the shopping cart pop-up<<<<<
+2023-05-02 15:53:04,075 - QA Lead:: -INFO - >>>>>User able to click on proceed to checkout<<<<<
+2023-05-02 15:56:46,219 - QA Lead:: -INFO - >>>>>Automation started with Chrome<<<<<
+2023-05-02 15:56:46,288 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-02 15:56:46,296 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/tahidulhaque/.cache/selenium/chromedriver/mac-arm64/112.0.5615.49/chromedriver
+2023-05-02 15:56:50,877 - QA Lead:: -INFO - >>>>>User able to select men module<<<<<
+2023-05-02 15:56:51,033 - QA Lead:: -INFO - >>>>>User able to select tops from men module<<<<<
+2023-05-02 15:56:51,184 - QA Lead:: -INFO - >>>>>User able to select jackets from the tops module<<<<<
+2023-05-02 15:56:51,823 - QA Lead:: -INFO - >>>>>User able to select any jacket<<<<<
+2023-05-02 15:56:53,525 - QA Lead:: -INFO - >>>>>User able to select a size<<<<<
+2023-05-02 15:56:53,692 - QA Lead:: -INFO - >>>>>User able to select a color<<<<<
+2023-05-02 15:56:53,843 - QA Lead:: -INFO - >>>>>User able to select quantity<<<<<
+2023-05-02 15:56:53,901 - QA Lead:: -INFO - >>>>>User able to click on to cart button<<<<<
+2023-05-02 15:56:54,042 - QA Lead:: -INFO - >>>>>User able to click on to the shopping cart pop-up<<<<<
+2023-05-02 15:56:56,981 - QA Lead:: -INFO - >>>>>User able to click on proceed to checkout<<<<<
+2023-05-02 15:57:41,792 - QA Lead:: -INFO - >>>>>Automation started with Chrome<<<<<
+2023-05-02 15:57:41,865 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-02 15:57:41,873 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/tahidulhaque/.cache/selenium/chromedriver/mac-arm64/112.0.5615.49/chromedriver
+2023-05-02 15:57:46,828 - QA Lead:: -INFO - >>>>>User able to select men module<<<<<
+2023-05-02 15:57:46,973 - QA Lead:: -INFO - >>>>>User able to select tops from men module<<<<<
+2023-05-02 15:57:47,109 - QA Lead:: -INFO - >>>>>User able to select jackets from the tops module<<<<<
+2023-05-02 15:57:47,727 - QA Lead:: -INFO - >>>>>User able to select any jacket<<<<<
+2023-05-02 15:57:49,454 - QA Lead:: -INFO - >>>>>User able to select a size<<<<<
+2023-05-02 15:57:49,603 - QA Lead:: -INFO - >>>>>User able to select a color<<<<<
+2023-05-02 15:57:49,748 - QA Lead:: -INFO - >>>>>User able to select quantity<<<<<
+2023-05-02 15:57:49,803 - QA Lead:: -INFO - >>>>>User able to click on to cart button<<<<<
+2023-05-02 15:57:49,949 - QA Lead:: -INFO - >>>>>User able to click on to the shopping cart pop-up<<<<<
+2023-05-02 15:57:53,506 - QA Lead:: -INFO - >>>>>User able to click on proceed to checkout<<<<<
+2023-05-02 19:10:27,320 - QA Lead:: -INFO - >>>>>Automation started with Chrome<<<<<
+2023-05-02 19:10:27,547 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-02 19:10:27,555 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/tahidulhaque/.cache/selenium/chromedriver/mac-arm64/112.0.5615.49/chromedriver
+2023-05-02 19:10:31,358 - QA Lead:: -INFO - >>>>>User able to select men module<<<<<
+2023-05-02 19:15:25,550 - QA Lead:: -INFO - >>>>>Automation started with Chrome<<<<<
+2023-05-02 19:15:25,621 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-02 19:15:25,627 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/tahidulhaque/.cache/selenium/chromedriver/mac-arm64/112.0.5615.49/chromedriver
+2023-05-02 19:15:30,217 - QA Lead:: -INFO - >>>>>User able to select men module<<<<<
+2023-05-02 19:15:30,361 - QA Lead:: -INFO - >>>>>User able to select tops from men module<<<<<
+2023-05-02 19:15:30,496 - QA Lead:: -INFO - >>>>>User able to select jackets from the tops module<<<<<
+2023-05-02 19:15:31,134 - QA Lead:: -INFO - >>>>>User able to select any jacket<<<<<
+2023-05-02 19:15:32,728 - QA Lead:: -INFO - >>>>>User able to select a size<<<<<
+2023-05-02 19:15:32,876 - QA Lead:: -INFO - >>>>>User able to select a color<<<<<
+2023-05-02 19:15:33,024 - QA Lead:: -INFO - >>>>>User able to select quantity<<<<<
+2023-05-02 19:15:33,081 - QA Lead:: -INFO - >>>>>User able to click on to cart button<<<<<
+2023-05-02 19:15:33,228 - QA Lead:: -INFO - >>>>>User able to click on to the shopping cart pop-up<<<<<
+2023-05-02 19:15:36,234 - QA Lead:: -INFO - >>>>>User able to click on proceed to checkout<<<<<
+2023-05-04 21:19:38,257 - QA Lead:: -INFO - >>>>>Automation started with Chrome<<<<<
+2023-05-04 21:19:38,331 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-04 21:19:38,338 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/tahidulhaque/.cache/selenium/chromedriver/mac-arm64/113.0.5672.63/chromedriver
+2023-05-04 21:19:44,325 - QA Lead:: -INFO - >>>>>User able to select men module<<<<<
+2023-05-04 21:19:44,476 - QA Lead:: -INFO - >>>>>User able to select tops from men module<<<<<
+2023-05-04 21:19:44,616 - QA Lead:: -INFO - >>>>>User able to select jackets from the tops module<<<<<
+2023-05-04 21:19:45,388 - QA Lead:: -INFO - >>>>>User able to select any jacket<<<<<
+2023-05-04 21:19:47,302 - QA Lead:: -INFO - >>>>>User able to select a size<<<<<
+2023-05-04 21:19:53,225 - QA Lead:: -INFO - >>>>>User able to select a color<<<<<
+2023-05-04 21:19:58,417 - QA Lead:: -INFO - >>>>>User able to select quantity<<<<<
+2023-05-04 21:19:58,482 - QA Lead:: -INFO - >>>>>User able to click on to cart button<<<<<
+2023-05-04 21:20:03,651 - QA Lead:: -INFO - >>>>>User able to click on to the shopping cart pop-up<<<<<
+2023-05-04 21:20:13,707 - QA Lead:: -INFO - >>>>>User able to click on proceed to checkout<<<<<
+2023-05-16 18:14:46,613 - QA Lead:: -INFO - >>>>>Automation started with Chrome<<<<<
+2023-05-16 18:14:46,929 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 18:14:46,936 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/tahidulhaque/.cache/selenium/chromedriver/mac-arm64/113.0.5672.63/chromedriver
+2023-05-16 18:14:52,000 - QA Lead:: -INFO - >>>>>User able to select men module<<<<<
+2023-05-16 18:14:52,151 - QA Lead:: -INFO - >>>>>User able to select tops from men module<<<<<
+2023-05-16 18:14:52,292 - QA Lead:: -INFO - >>>>>User able to select jackets from the tops module<<<<<
+2023-05-16 18:14:53,123 - QA Lead:: -INFO - >>>>>User able to select any jacket<<<<<
+2023-05-16 18:14:55,481 - QA Lead:: -INFO - >>>>>User able to select a size<<<<<
+2023-05-16 18:14:55,647 - QA Lead:: -INFO - >>>>>User able to select a color<<<<<
+2023-05-16 18:14:55,795 - QA Lead:: -INFO - >>>>>User able to select quantity<<<<<
+2023-05-16 18:14:55,858 - QA Lead:: -INFO - >>>>>User able to click on to cart button<<<<<
+2023-05-16 18:14:56,011 - QA Lead:: -INFO - >>>>>User able to click on to the shopping cart pop-up<<<<<
+2023-05-16 18:14:59,119 - QA Lead:: -INFO - >>>>>User able to click on proceed to checkout<<<<<
+2023-05-16 18:17:16,441 - QA Lead:: -INFO - >>>>>Automation started with Chrome<<<<<
+2023-05-16 18:17:16,512 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 18:17:16,518 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/tahidulhaque/.cache/selenium/chromedriver/mac-arm64/113.0.5672.63/chromedriver
+2023-05-16 18:17:21,059 - QA Lead:: -INFO - >>>>>User able to select men module<<<<<
+2023-05-16 18:17:21,254 - QA Lead:: -INFO - >>>>>User able to select tops from men module<<<<<
+2023-05-16 18:17:21,392 - QA Lead:: -INFO - >>>>>User able to select jackets from the tops module<<<<<
+2023-05-16 18:17:22,237 - QA Lead:: -INFO - >>>>>User able to select any jacket<<<<<
+2023-05-16 18:17:24,607 - QA Lead:: -INFO - >>>>>User able to select a size<<<<<
+2023-05-16 18:17:24,774 - QA Lead:: -INFO - >>>>>User able to select a color<<<<<
+2023-05-16 18:17:24,925 - QA Lead:: -INFO - >>>>>User able to select quantity<<<<<
+2023-05-16 18:17:24,987 - QA Lead:: -INFO - >>>>>User able to click on to cart button<<<<<
+2023-05-16 18:17:25,134 - QA Lead:: -INFO - >>>>>User able to click on to the shopping cart pop-up<<<<<
+2023-05-16 18:17:28,329 - QA Lead:: -INFO - >>>>>User able to click on proceed to checkout<<<<<
+2023-05-16 18:18:31,954 - QA Lead:: -INFO - >>>>>Automation started with Chrome<<<<<
+2023-05-16 18:18:32,025 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 18:18:32,032 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/tahidulhaque/.cache/selenium/chromedriver/mac-arm64/113.0.5672.63/chromedriver
+2023-05-16 18:18:36,635 - QA Lead:: -INFO - >>>>>User able to select men module<<<<<
+2023-05-16 18:18:36,823 - QA Lead:: -INFO - >>>>>User able to select tops from men module<<<<<
+2023-05-16 18:18:36,970 - QA Lead:: -INFO - >>>>>User able to select jackets from the tops module<<<<<
+2023-05-16 18:18:37,738 - QA Lead:: -INFO - >>>>>User able to select any jacket<<<<<
+2023-05-16 18:18:39,334 - QA Lead:: -INFO - >>>>>User able to select a size<<<<<
+2023-05-16 18:18:39,533 - QA Lead:: -INFO - >>>>>User able to select a color<<<<<
+2023-05-16 18:18:39,705 - QA Lead:: -INFO - >>>>>User able to select quantity<<<<<
+2023-05-16 18:18:39,780 - QA Lead:: -INFO - >>>>>User able to click on to cart button<<<<<
+2023-05-16 18:18:39,925 - QA Lead:: -INFO - >>>>>User able to click on to the shopping cart pop-up<<<<<
+2023-05-16 18:18:42,780 - QA Lead:: -INFO - >>>>>User able to click on proceed to checkout<<<<<
+2023-05-16 18:21:23,366 - QA Lead:: -INFO - >>>>>Automation started with Chrome<<<<<
+2023-05-16 18:21:23,437 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 18:21:23,443 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/tahidulhaque/.cache/selenium/chromedriver/mac-arm64/113.0.5672.63/chromedriver
+2023-05-16 18:21:28,166 - QA Lead:: -INFO - >>>>>User able to select men module<<<<<
+2023-05-16 18:21:28,353 - QA Lead:: -INFO - >>>>>User able to select tops from men module<<<<<
+2023-05-16 18:21:28,492 - QA Lead:: -INFO - >>>>>User able to select jackets from the tops module<<<<<
+2023-05-16 18:21:29,168 - QA Lead:: -INFO - >>>>>User able to select any jacket<<<<<
+2023-05-16 18:21:30,880 - QA Lead:: -INFO - >>>>>User able to select a size<<<<<
+2023-05-16 18:21:31,034 - QA Lead:: -INFO - >>>>>User able to select a color<<<<<
+2023-05-16 18:21:31,190 - QA Lead:: -INFO - >>>>>User able to select quantity<<<<<
+2023-05-16 18:21:31,255 - QA Lead:: -INFO - >>>>>User able to click on to cart button<<<<<
+2023-05-16 18:21:31,404 - QA Lead:: -INFO - >>>>>User able to click on to the shopping cart pop-up<<<<<
+2023-05-16 18:21:34,379 - QA Lead:: -INFO - >>>>>User able to click on proceed to checkout<<<<<
+2023-05-16 19:05:37,566 - QA Lead:: -INFO - >>>>>Automation started with Chrome<<<<<
+2023-05-16 19:05:37,637 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 19:05:37,644 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/tahidulhaque/.cache/selenium/chromedriver/mac-arm64/113.0.5672.63/chromedriver
+2023-05-16 19:05:42,132 - QA Lead:: -INFO - >>>>>User able to select men module<<<<<
+2023-05-16 19:05:42,324 - QA Lead:: -INFO - >>>>>User able to select tops from men module<<<<<
+2023-05-16 19:05:42,462 - QA Lead:: -INFO - >>>>>User able to select jackets from the tops module<<<<<
+2023-05-16 19:05:43,160 - QA Lead:: -INFO - >>>>>User able to select any jacket<<<<<
+2023-05-16 19:05:44,810 - QA Lead:: -INFO - >>>>>User able to select a size<<<<<
+2023-05-16 19:05:44,952 - QA Lead:: -INFO - >>>>>User able to select a color<<<<<
+2023-05-16 19:05:45,108 - QA Lead:: -INFO - >>>>>User able to select quantity<<<<<
+2023-05-16 19:05:45,169 - QA Lead:: -INFO - >>>>>User able to click on to cart button<<<<<
+2023-05-16 19:05:45,315 - QA Lead:: -INFO - >>>>>User able to click on to the shopping cart pop-up<<<<<
+2023-05-16 19:05:49,527 - QA Lead:: -INFO - >>>>>User able to click on proceed to checkout<<<<<
+2023-05-16 19:07:42,630 - QA Lead:: -INFO - >>>>>Automation started with Chrome<<<<<
+2023-05-16 19:07:42,706 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 19:07:42,713 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/tahidulhaque/.cache/selenium/chromedriver/mac-arm64/113.0.5672.63/chromedriver
+2023-05-16 19:07:47,368 - QA Lead:: -INFO - >>>>>User able to select men module<<<<<
+2023-05-16 19:07:47,573 - QA Lead:: -INFO - >>>>>User able to select tops from men module<<<<<
+2023-05-16 19:07:47,712 - QA Lead:: -INFO - >>>>>User able to select jackets from the tops module<<<<<
+2023-05-16 19:07:48,581 - QA Lead:: -INFO - >>>>>User able to select any jacket<<<<<
+2023-05-16 19:07:50,378 - QA Lead:: -INFO - >>>>>User able to select a size<<<<<
+2023-05-16 19:07:50,525 - QA Lead:: -INFO - >>>>>User able to select a color<<<<<
+2023-05-16 19:07:50,670 - QA Lead:: -INFO - >>>>>User able to select quantity<<<<<
+2023-05-16 19:07:50,734 - QA Lead:: -INFO - >>>>>User able to click on to cart button<<<<<
+2023-05-16 19:07:50,886 - QA Lead:: -INFO - >>>>>User able to click on to the shopping cart pop-up<<<<<
+2023-05-16 19:07:53,889 - QA Lead:: -INFO - >>>>>User able to click on proceed to checkout<<<<<

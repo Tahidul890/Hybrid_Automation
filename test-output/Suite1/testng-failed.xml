@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="tohid.usa.listener.TestListener"/>
+  </listeners>
+  <test thread-count="5" name="functionalTesting(failed)">
+    <classes>
+      <class name="tohid.usa.runnerpage.My_Runner">
+        <methods>
+          <include name="runScenario" invocation-numbers="0"/>
+          <include name="tearDownClass"/>
+          <include name="setUpClass"/>
+        </methods>
+      </class> <!-- tohid.usa.runnerpage.My_Runner -->
+    </classes>
+  </test> <!-- functionalTesting(failed) -->
+</suite> <!-- Failed suite [Suite1] -->
